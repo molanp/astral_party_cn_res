@@ -2,15 +2,25 @@
 
 资源概览
 
-1. char_names.json 35 角色 id->中文名 (\_cfg/Character.bin f1=id,f4=name_sid + STRCharacter.bin)
-2. map_names.json 24 地图 id->中文名 (\_cfg/Map.bin f1=id,f2=alt_id + STRMap.bin,名称按 f1 优先、f2 回退)
-3. char_art/<id名>/ 1625 PNG 角色立绘/头像/半身/卡面 + account_avatars/
-   account_frames/ player_photos/ + manifest.json
+1. char_names.json 35 角色 id->中文名
+2. map_names.json 24 地图 id->中文名
+3. char*art/<id名>/ 角色美术, 文件按分类前缀命名, manifest.json 记录来源:
+   rolephoto=立绘 profilephoto=头像 bust=半身 card/card2/thincard=卡面
+   levelup=升级/好感图 standing=局内立绘 story=角色故事图
+   emoji*<id>_<n>.png=静态表情 emoji_dyn_<id>\_<n>.apng=动态表情(透明,见下方章节)
+   - account*avatars/ account_frames/ player_photos/
+     目录名统一用"纯名字"(如 125*摩西), 不含称号后缀, 避免同角色分裂成两个文件夹。
 4. map_art/<id名>/ 34 PNG 地图预览图(preview)+场景图(scene) + manifest.json
+5. card_art/ 游戏内卡牌美术(道具, 非角色) + manifest.json:
+   handcard/<id>.png 手牌/技能卡正面 (id 1xxxx/2xxxx, \_sfw=内容和谐版)
+   cardback/<id>.png 卡背 (id 75xxx)
+   cardback_item/<id>.png 卡背道具图 (另一 bundle, 与 cardback 同 id 不同用途)
+
+动态表情从缓存中提取，目前因未见到更多动态表情，故数量有限
 
 ## 资源更新
 
-运行脚本 `dump_cfg.py` 后再运行 `extract_all.py`
+运行 `extract_all.py`
 
 For Windows
 
