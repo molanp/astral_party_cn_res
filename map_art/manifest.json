@@ -1,0 +1,173 @@
+{
+ "81003": {
+  "name": "游乐园",
+  "keys": [
+   "UT_MapPreview_003",
+   "UT_MapScene_003"
+  ],
+  "note": ""
+ },
+ "81005": {
+  "name": "樱花小镇",
+  "keys": [
+   "UT_MapPreview_005",
+   "UT_MapScene_005"
+  ],
+  "note": ""
+ },
+ "81004": {
+  "name": "十字路口站",
+  "keys": [
+   "UT_MapPreview_004",
+   "UT_MapScene_004"
+  ],
+  "note": ""
+ },
+ "81006": {
+  "name": "魅影都市",
+  "keys": [
+   "UT_MapPreview_006",
+   "UT_MapScene_006"
+  ],
+  "note": ""
+ },
+ "81007": {
+  "name": "梦想号-上层甲板",
+  "keys": [
+   "UT_MapPreview_007",
+   "UT_MapScene_021"
+  ],
+  "note": ""
+ },
+ "81011": {
+  "name": "丛林冒险",
+  "keys": [
+   "UT_MapPreview_011",
+   "UT_MapScene_011"
+  ],
+  "note": ""
+ },
+ "81099": {
+  "name": "Map_010",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "82009": {
+  "name": "礼物广场",
+  "keys": [
+   "UT_MapPreview_009",
+   "UT_MapScene_009"
+  ],
+  "note": ""
+ },
+ "82007": {
+  "name": "星趴·梦想号",
+  "keys": [
+   "UT_MapPreview_007",
+   "UT_MapScene_007"
+  ],
+  "note": ""
+ },
+ "82008": {
+  "name": "御魂庆典",
+  "keys": [
+   "UT_MapPreview_008",
+   "UT_MapScene_008"
+  ],
+  "note": ""
+ },
+ "82010": {
+  "name": "水乡古镇",
+  "keys": [
+   "UT_MapPreview_010",
+   "UT_MapScene_010"
+  ],
+  "note": ""
+ },
+ "82012": {
+  "name": "魔法学院",
+  "keys": [
+   "UT_MapPreview_012",
+   "UT_MapScene_012"
+  ],
+  "note": ""
+ },
+ "82013": {
+  "name": "龙宫游乐园",
+  "keys": [
+   "UT_MapPreview_013",
+   "UT_MapScene_013"
+  ],
+  "note": ""
+ },
+ "82014": {
+  "name": "幽魂暗巷",
+  "keys": [
+   "UT_MapPreview_014",
+   "UT_MapScene_014"
+  ],
+  "note": ""
+ },
+ "82015": {
+  "name": "园林中庭",
+  "keys": [
+   "UT_MapPreview_015",
+   "UT_MapScene_015"
+  ],
+  "note": ""
+ },
+ "82016": {
+  "name": "异变图书馆",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "83001": {
+  "name": "海选赛运动场",
+  "keys": [
+   "UT_MapPreview_019",
+   "UT_MapScene_019"
+  ],
+  "note": ""
+ },
+ "83002": {
+  "name": "淘汰赛运动场",
+  "keys": [
+   "UT_MapPreview_019",
+   "UT_MapScene_019"
+  ],
+  "note": ""
+ },
+ "83003": {
+  "name": "决赛大赛场",
+  "keys": [
+   "UT_MapPreview_020",
+   "UT_MapScene_020"
+  ],
+  "note": ""
+ },
+ "101": {
+  "name": "海盗王嘎呜",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "102": {
+  "name": "浣熊",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "103": {
+  "name": "对抗训练",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "1001": {
+  "name": "?",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ },
+ "1002": {
+  "name": "?",
+  "keys": [],
+  "note": "无独立预览/场景精灵图（特殊模式地图）"
+ }
+}
