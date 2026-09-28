@@ -16,8 +16,6 @@
    cardback/<id>.png 卡背 (id 75xxx)
    cardback_item/<id>.png 卡背道具图 (另一 bundle, 与 cardback 同 id 不同用途)
 
-动态表情从缓存中提取，目前因未见到更多动态表情，故数量有限
-
 ## 资源更新
 
 运行 `extract_all.py`
