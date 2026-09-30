@@ -9,7 +9,7 @@
    levelup=升级/好感图 standing=局内立绘 story=角色故事图
    emoji_\<id>\_<n>.png=静态表情 emoji_dyn_\<id>\_<n>.apng=动态表情(透明,见下方章节)
    - account_avatars/ account_frames/ player_photos/
-     目录名统一用"纯名字"(如 125*摩西), 不含称号后缀, 避免同角色分裂成两个文件夹。
+     目录名统一用"纯名字"(如 125_摩西), 不含称号后缀, 避免同角色分裂成两个文件夹。
 4. map_art/<id名>/ 34 PNG 地图预览图(preview)+场景图(scene) + manifest.json
 5. card_art/ 游戏内卡牌美术(道具, 非角色) + manifest.json:
    handcard/<id>.png 手牌/技能卡正面 (id 1xxxx/2xxxx, \_sfw=内容和谐版)
