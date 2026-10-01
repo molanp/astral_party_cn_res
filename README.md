@@ -16,11 +16,7 @@
    cardback/<id>.png 卡背 (id 75xxx)
    cardback_item/<id>.png 卡背道具图 (另一 bundle, 与 cardback 同 id 不同用途)
 
-## 资源更新
-
-运行 `extract_all.py`
-
-For Windows
+这里只是目前可以公开的情报
 
 # 版权
 
